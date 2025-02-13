@@ -1,0 +1,2 @@
+# Financial-Sentiment-Analysis-using-Knowledge-Distillation
+Developed a financial sentiment analysis model using knowledge distillation with RoBERTa as the teacher and T5 as the student. Integrated meta-learning for task-agnostic optimization and self-reflection for iterative refinement. Achieved 97% accuracy, optimizing efficiency, scalability, and robustness for real-time financial sentiment analysis.
